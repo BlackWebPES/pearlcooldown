@@ -1,5 +1,5 @@
-#cooldown-timer in seconds: 10
-cooldown-timer: 15
+#cooldown-timer in seconds: 30
+cooldown-timer: 30
 
 #this is the cooldown message
-cooldown-message: "§cThis item is on cooldown!"
+cooldown-message: "§fThis Item On CoolDown"
