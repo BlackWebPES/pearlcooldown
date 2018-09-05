@@ -14,7 +14,7 @@ use pocketmine\event\player\PlayerMoveEvent;
 class Plugin extends PluginBase implements Listener
 {
 
-	private $coolDown = 60;
+	private $coolDown = 30;
 	private $timer = [];
 
 	public function onEnable()
